@@ -24,6 +24,8 @@ Free up the seats assigned a name:
 delete <name>
 ```
 
-### Note:
-Each server and client is started in a seperate JVM process, not just seperate threads.
+NOTE: Each server and client is started in a seperate JVM process, not just seperate threads.
+
+## Contributors:
+kennethlee, shreyasrao
 
